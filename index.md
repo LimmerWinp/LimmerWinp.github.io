@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的世界！
 
-You can use the [editor on GitHub](https://github.com/LimmerWinp/LimmerWinp.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+我是莉木，来自提瓦特大陆的一名普通旅行者。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 基本资料
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+UID：198989131
+角色：荧
+冒险等阶：42
+世界等级：4
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 兴趣爱好
 
-### Jekyll Themes
+```markdown
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LimmerWinp/LimmerWinp.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+▪当着提米的面“随风而去吧”卷走鸽子
+▪坐在风神像的手心中俯瞰蒙德城
+▪到处寻找小灯草
+▪用砂糖吹散水深渊法师的一切泡泡
 
-### Support or Contact
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 最喜欢的角色
+
+```markdown
+
+巴巴托斯，干点正事吧！
+
+诶嘿。
+
+```
+
+### 旅行时的趣事
+
+```markdown
+
+
+
+
+```
