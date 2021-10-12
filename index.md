@@ -37,7 +37,7 @@ UID：198989131
 ### 旅行时的趣事
 
 ```markdown
-<body>
+
 ![https://p1.ssl.qhimgs1.com/t013e18f6a222768f29.webp]
 
 
